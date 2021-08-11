@@ -520,7 +520,7 @@ footer a {
 
   .image-container .ripped-up {
     transform: rotateY(-180deg);
-    margin-top: 0.1rem;
+    margin-bottom: -0.1rem;
   }
   
   .image-container .ripped-bottom {
